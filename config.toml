@@ -1,5 +1,5 @@
 baseurl = "https://ocp001.netlify.app/"
-title = "Cool Dog Guy"
+title = "Cyber Security Portfolio"
 
 theme = "hugo-coder"
 
@@ -17,10 +17,10 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Cool Dogs Guy"
-    description = "Cool Dog Guy's Personal Website"
-    keywords = "blog,developer,personal,hacker,student"
-    info = "Dog Enthuasiast and student"
+    author = "Alvonso"
+    description = "Alvonso's Cyber Security Portfolio"
+    keywords = "blog,developer,personal,student"
+    info = "Student"
     avatarurl = "images/me.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = ""
