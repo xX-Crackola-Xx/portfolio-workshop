@@ -17,10 +17,9 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Alvonso"
+    author = "Alvonso Youel"
     description = "Alvonso's Cyber Security Portfolio"
     keywords = "blog,developer,personal,student"
-    info = "Student"
     avatarurl = "images/me.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = ""
