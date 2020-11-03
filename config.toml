@@ -1,5 +1,5 @@
-baseurl = "https://utscyberblogexample.netlify.com/"
-title = "Cool Dog Guy"
+baseurl = "ocp001.netlify.app"
+title = "Alvonso's Cybersec Protfolio!"
 
 theme = "hugo-coder"
 
@@ -17,10 +17,10 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Cool Dogs Guy"
-    description = "Cool Dog Guy's Personal Website"
-    keywords = "blog,developer,personal,hacker,student"
-    info = "Dog Enthuasiast and student"
+    author = "Alvonso Youel"
+    description = "Alvonso's Personal website"
+    keywords = "personal,CyberSecurity,student"
+    info = "Portfolio showcasing my skills in various fields of CyberSec"
     avatarurl = "images/me.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = ""
