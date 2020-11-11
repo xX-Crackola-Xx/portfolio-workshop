@@ -99,3 +99,4 @@ pygmentscodefencesguesssyntax = true
             weight = 5
             url = "contact/"
 
+theme = "terminal"
