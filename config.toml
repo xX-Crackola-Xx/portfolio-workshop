@@ -20,7 +20,7 @@ pygmentscodefencesguesssyntax = true
     author = "Alvonso Youel"
     description = "Alvonso's Cyber Security Portfolio"
     keywords = "blog,developer,personal,student"
-    avatarurl = "images/me.jpg"
+    #avatarurl = "images/me.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = ""
 
