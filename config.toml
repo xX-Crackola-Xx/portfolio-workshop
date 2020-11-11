@@ -1,7 +1,7 @@
 baseurl = "https://ocp001.netlify.app/"
 title = "Cyber Security Portfolio"
 
-theme = "hugo-theme-terminal"
+theme = "hugo-coder"
 
 languagecode = "en"
 defaultcontentlanguage = "en"
