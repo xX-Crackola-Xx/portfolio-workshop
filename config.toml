@@ -66,7 +66,7 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/CoolDogGuy/"
+    url = "https://github.com/xX-Crackola-Xx"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
@@ -76,7 +76,7 @@ pygmentscodefencesguesssyntax = true
     name = "LinkedIn"
     icon = "fab fa-linkedin-in"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/alvonso-youel-888682114/"
 
 [languages]
     [languages.en]
@@ -99,31 +99,3 @@ pygmentscodefencesguesssyntax = true
             weight = 5
             url = "contact/"
 
-
-    [languages.pt-br]
-        languagename = "Português"
-        title = "João Ninguém"
-
-        [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
-            description = "Sítio pessoal de João Ninguém"
-            keywords = "blog,desenvolvedor,pessoal"
-            footercontent = "Coloque algum texto aqui."
-
-        [languages.pt-br.menu]
-
-            [[languages.pt-br.menu.main]]
-            name = "Sobre"
-            weight = 1
-            url = "about/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Contato"
-            weight = 5
-            url = "contact/"
