@@ -86,8 +86,8 @@ pygmentscodefencesguesssyntax = true
 
 
             [[languages.en.menu.main]]
-            name = "Penetration Testing"
+            name = "HackTheBox"
             weight = 5
-            url = "pentest/"
+            url = "htb/"
 
 theme = "terminal"
